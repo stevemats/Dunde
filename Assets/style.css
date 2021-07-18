@@ -140,7 +140,7 @@ label.main:hover:before {
 }
 
 .coverImage {
-  background: url('Assets/Stevemats.png') center no-repeat;
+  background: url('/Images/Playlist-header/fassie.png') center no-repeat;
   background-size: cover;
   width: 366px;
   height: 366px;
