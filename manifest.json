@@ -1,19 +1,21 @@
 {
-    "background_color": "#ffffff",
-    "description": "",
-    "dir": "ltr",
-    "display": "standalone",
-    "name": "dunde.netlify",
-    "orientation": "any",
-    "scope": "/",
-    "short_name": "dunde.netlify",
-    "start_url": "/index.html",
-    "theme_color": "#ffffff",
-    "categories": [],
-    "screenshots": [],
-    "icons": [{
-        "src": "Images/favi.ico",
-        "type": "image/x-icon"
-    }],
-    "shortcuts": []
+  "background_color": "#ffffff",
+  "description": "",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "dunde.netlify",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "dunde.netlify",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "Images/favi.ico",
+      "type": "image/x-icon"
+    }
+  ],
+  "shortcuts": []
 }

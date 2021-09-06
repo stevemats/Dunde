@@ -1,0 +1,36 @@
+{
+  "results": [
+    {
+      "filePath": "Images/favi.ico",
+      "success": false,
+      "error": {
+        "methodName": "constructor"
+      }
+    },
+    {
+      "filePath": "next-steps.html",
+      "success": true
+    },
+    {
+      "filePath": "manifest.json",
+      "success": true
+    },
+    {
+      "filePath": "Performance/pwabuilder-sw/pwabuilder-sw-register.js",
+      "success": true
+    },
+    {
+      "filePath": "Performance/pwabuilder-sw/pwabuilder-sw.js",
+      "success": true
+    }
+  ],
+  "errors": [
+    {
+      "filePath": "Images/favi.ico",
+      "success": false,
+      "error": {
+        "methodName": "constructor"
+      }
+    }
+  ]
+}
