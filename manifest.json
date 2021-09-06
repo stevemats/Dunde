@@ -1,16 +1,27 @@
 {
   "background_color": "#ffffff",
-  "description": "",
+  "description": "A Free Open Source Music Player",
   "dir": "ltr",
   "display": "standalone",
-  "name": "dunde.netlify",
+  "name": "Dunde Music Player",
   "orientation": "any",
   "scope": "/",
-  "short_name": "dunde.netlify",
+  "short_name": "Dunde",
   "start_url": "/index.html",
   "theme_color": "#ffffff",
   "categories": [],
-  "screenshots": [],
+  "screenshots": [
+    {
+      "src": "/images/screenshot-1.png",
+      "sizes": "1280x800",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/screenshot-2.png",
+      "sizes": "750x1334",
+      "type": "image/png"
+    }
+  ],
   "icons": [
     {
       "src": "Images/favi.ico",
