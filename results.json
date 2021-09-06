@@ -16,11 +16,11 @@
       "success": true
     },
     {
-      "filePath": "Performance/pwabuilder-sw/pwabuilder-sw-register.js",
+      "filePath": "Performance/advanced-caching/pwabuilder-sw/pwabuilder-sw-register.js",
       "success": true
     },
     {
-      "filePath": "Performance/pwabuilder-sw/pwabuilder-sw.js",
+      "filePath": "Performance/advanced-caching/pwabuilder-sw/pwabuilder-sw.js",
       "success": true
     }
   ],
